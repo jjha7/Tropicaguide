@@ -13,7 +13,8 @@ Travel planning often becomes chaotic when multiple people are involved. Importa
 
 The application focuses on usability, visual clarity, and collaboration rather than just static planning.
 
-#PPT LINK - https://drive.google.com/file/d/16HBgFwfkIx4KuQ4wD6zxQxWK4lqlAcTY/view?usp=sharing
+# PPT LINK - https://drive.google.com/file/d/16HBgFwfkIx4KuQ4wD6zxQxWK4lqlAcTY/view?usp=sharing
+# SHORT DEMO - https://drive.google.com/file/d/151mjffGHxBxav9ejIDVOaaZh-_BiuEPX/view?usp=sharing
 
 Core Features
 
