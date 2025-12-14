@@ -138,7 +138,8 @@ Drag-and-drop itinerary planning
 Multi-device sync
 ![WhatsApp Image 2025-12-13 at 22 24 45_52a16e91](https://github.com/user-attachments/assets/04e35000-31b3-4b04-a5fe-9cc5baed5790)
 
-![WhatsApp Image 2025-12-13 at 22 24 45_01f7a159](https://github.com/user-attachments/assets/a44d3a82-d4d7-41bf-b718-25479471acd9)
+![WhatsApp Image 2025-12-13 at 22 26 57_2a28f1f9](https://github.com/user-attachments/assets/5f58a5fa-fe1c-46c7-98a5-833b2e8828cf)
+
 ![WhatsApp Image 2025-12-13 at 22 25 02_eb9fcd40](https://github.com/user-attachments/assets/e60aff96-95b7-4448-a4d2-0f3d8aae2302)
 
 
